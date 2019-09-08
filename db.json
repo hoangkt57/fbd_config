@@ -1,4 +1,6 @@
 {
-  "ad_platform": "admob",
-  "ad_time": 30
+  "configs": {
+    "ad_platform": "admob",
+    "ad_time": 30
+  }
 }
